@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "531466222390",
+    "project_id": "pmobile-18699",
+    "storage_bucket": "pmobile-18699.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531466222390:android:2c9c35ca70db5d67841197",
+        "android_client_info": {
+          "package_name": "com.example.uas_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ45-m1ORkQ1nCER9oU_K3hd9HSSi-cj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531466222390:android:ae6fbaa8936d633c841197",
+        "android_client_info": {
+          "package_name": "com.uas.pemob"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ45-m1ORkQ1nCER9oU_K3hd9HSSi-cj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
